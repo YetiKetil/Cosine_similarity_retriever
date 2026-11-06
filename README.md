@@ -4,7 +4,7 @@ Compute pairwise semantic similarity between survey/questionnaire items using
 OpenAI, Voyage AI or Claude – or a free local model that needs no API key.
 Python/Colab port of the SwiftUI app *SurveySimilarity*; runs on any computer with a browser.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-GITHUB-USER/YOUR-REPO/blob/main/SurveySimilarity.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YetiKetil/Cosine_similarity_retriever/blob/main/SurveySimilarity.ipynb)
 
 ## Methods
 
